@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.MiniLauncher" parent="@android:style/Theme.Material.Wallpaper.NoTitleBar">
+        <item name="android:windowShowWallpaper">true</item>
+    </style>
+</resources>
